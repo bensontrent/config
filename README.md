@@ -1,1 +1,1 @@
-# config
+# Personal configuration settings for Webstorm
