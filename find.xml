@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '[calculator-dev] - ...\calculator_files\js\via-calculator.ts'" />
+    <option name="defaultScopeName" value="File '[calculator-dev] - ...\calculator_files\js\via-calculator.ts'" />
+    <option name="SEARCH_SCOPE" value="File '[calculator-dev] - ...\calculator_files\js\via-calculator.ts'" />
   </component>
 </application>
