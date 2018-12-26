@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Wallaby Expired License" shouldLog="false" />
-  </component>
-</application>
