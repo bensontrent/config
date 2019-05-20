@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".graphqlconfig" type="JSON5" />
       <mapping pattern="rangeSlider" type="JavaScript" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".graphqlconfig" type="JSON5" />
     </extensionMap>
   </component>
 </application>
