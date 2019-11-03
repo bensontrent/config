@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\CMS\public\js\locate.js [adventuregamesapps.com]'" />
-    <option name="defaultScopeName" value="File '...\CMS\public\js\locate.js [adventuregamesapps.com]'" />
+    <option name="customScope" value="File '...\tests.js [adventuregamesapps.com]'" />
+    <option name="defaultScopeName" value="File '...\tests.js [adventuregamesapps.com]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\CMS\public\js\locate.js [adventuregamesapps.com]'" />
+    <option name="SEARCH_SCOPE" value="File '...\tests.js [adventuregamesapps.com]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
