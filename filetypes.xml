@@ -1,15 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
       <mapping pattern=".graphqlconfig" type="JSON5" />
       <mapping pattern="rangeSlider" type="JavaScript" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="Category.tsx" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
