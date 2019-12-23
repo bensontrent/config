@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping pattern=".graphqlconfig" type="JSON5" />
       <mapping pattern="rangeSlider" type="JavaScript" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="testenv" type="PLAIN_TEXT" />
       <mapping pattern="Category.tsx" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
